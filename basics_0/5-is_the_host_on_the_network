@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-$1
 if [ -n "$1" ]
 then
 	ping "$1"
